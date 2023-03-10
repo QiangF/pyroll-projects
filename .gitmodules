@@ -1,0 +1,72 @@
+[submodule "submodules/pyroll-basic"]
+	path = submodules/pyroll-basic
+	url = git@github.com:pyroll-project/pyroll-basic.git
+[submodule "submodules/pyroll-core"]
+	path = submodules/pyroll-core
+	url = git@github.com:pyroll-project/pyroll-core.git
+[submodule "submodules/pyroll-freiberg-flow-stress"]
+	path = submodules/pyroll-freiberg-flow-stress
+	url = git@github.com:pyroll-project/pyroll-freiberg-flow-stress.git
+[submodule "submodules/pyroll-wusatowski-spreading"]
+	path = submodules/pyroll-wusatowski-spreading
+	url = git@github.com:pyroll-project/pyroll-wusatowski-spreading.git
+[submodule "submodules/pyroll-cli"]
+	path = submodules/pyroll-cli
+	url = git@github.com:pyroll-project/pyroll-cli.git
+[submodule "submodules/pyroll-lendl-equivalent-method"]
+	path = submodules/pyroll-lendl-equivalent-method
+	url = git@github.com:pyroll-project/pyroll-lendl-equivalent-method.git
+[submodule "submodules/pyroll-marini-spreading"]
+	path = submodules/pyroll-marini-spreading
+	url = git@github.com:pyroll-project/pyroll-marini-spreading.git
+[submodule "submodules/pyroll-report"]
+	path = submodules/pyroll-report
+	url = git@github.com:pyroll-project/pyroll-report.git
+[submodule "submodules/pyroll-docs"]
+	path = submodules/pyroll-docs
+	url = git@github.com:pyroll-project/pyroll-docs.git
+[submodule "submodules/pyroll-sander-spreading"]
+	path = submodules/pyroll-sander-spreading
+	url = git@github.com:pyroll-project/pyroll-sander-spreading.git
+[submodule "submodules/pyroll-hill-spreading"]
+	path = submodules/pyroll-hill-spreading
+	url = git@github.com:pyroll-project/pyroll-hill-spreading.git
+[submodule "submodules/pyroll-sparling-spreading"]
+	path = submodules/pyroll-sparling-spreading
+	url = git@github.com:pyroll-project/pyroll-sparling-spreading.git
+[submodule "submodules/pyroll-export"]
+	path = submodules/pyroll-export
+	url = git@github.com:pyroll-project/pyroll-export.git
+[submodule "submodules/pyroll-plugin-template"]
+	path = submodules/pyroll-plugin-template
+	url = git@github.com:pyroll-project/pyroll-plugin-template.git
+[submodule "submodules/pyroll-integral-thermal"]
+	path = submodules/pyroll-integral-thermal
+	url = git@github.com:pyroll-project/pyroll-integral-thermal.git
+[submodule "submodules/pyroll-hensel-power-and-labour"]
+	path = submodules/pyroll-hensel-power-and-labour
+	url = git@github.com:pyroll-project/pyroll-hensel-power-and-labour.git
+[submodule "submodules/pyroll"]
+	path = submodules/pyroll
+	url = git@github.com:pyroll-project/pyroll.git
+[submodule "submodules/pyroll-zouhar-contact"]
+	path = submodules/pyroll-zouhar-contact
+	url = git@github.com:pyroll-project/pyroll-zouhar-contact.git
+[submodule "submodules/pyroll-roux-spreading"]
+	path = submodules/pyroll-roux-spreading
+	url = git@github.com:pyroll-project/pyroll-roux-spreading.git
+[submodule "submodules/pyroll-sims-power-and-labour"]
+	path = submodules/pyroll-sims-power-and-labour
+	url = git@github.com:pyroll-project/pyroll-sims-power-and-labour.git
+[submodule "submodules/pyroll-hitchcock-roll-flattening"]
+	path = submodules/pyroll-hitchcock-roll-flattening
+	url = git@github.com:pyroll-project/pyroll-hitchcock-roll-flattening.git
+[submodule "submodules/pyroll-project.github.io"]
+	path = submodules/pyroll-project.github.io
+	url = git@github.com:pyroll-project/pyroll-project.github.io.git
+[submodule "submodules/pyroll-work-roll-elastic-deformation"]
+	path = submodules/pyroll-work-roll-elastic-deformation
+	url = git@github.com:pyroll-project/pyroll-work-roll-elastic-deformation.git
+[submodule "submodules/pyroll-pub1-benchmark"]
+	path = submodules/pyroll-pub1-benchmark
+	url = git@github.com:pyroll-project/pyroll-pub1-benchmark.git
